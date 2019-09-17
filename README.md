@@ -1,4 +1,4 @@
-# NN tutorial 2019-09-18
+# Neural Network Tutorial 2019-09-18
 
 Classification
 https://colab.research.google.com/drive/1U5dWgzRdGzCxRlvGyiCn6YRye7kkpFJf
