@@ -1,7 +1,7 @@
 # nn_tutorial
 
 Classification
-https://colab.research.google.com/drive/1nG5SabSmN-Prys683li5Yk_bBtgvkTbi
+https://colab.research.google.com/drive/1U5dWgzRdGzCxRlvGyiCn6YRye7kkpFJf
 
 Regression 1
 https://colab.research.google.com/drive/1b3E-MewVLFbauN-HcMS_eWdknWbLSD2R
